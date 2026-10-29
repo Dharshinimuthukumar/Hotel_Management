@@ -1,0 +1,21 @@
+{
+  "name": "hotel-booking-system",
+  "version": "1.0.0",
+  "description": "A beginner-friendly Hotel Booking System for college Low-Level Design (LLD)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "lld",
+    "hotel-booking",
+    "express",
+    "in-memory"
+  ],
+  "author": "Antigravity Pair Programmer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.3"
+  }
+}
